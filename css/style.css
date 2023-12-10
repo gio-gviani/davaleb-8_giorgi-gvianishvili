@@ -34,6 +34,9 @@
   width: 756px;
   height: 298px;
   flex-shrink: 0;
+  padding-top: 23px;
+  padding-left: 21px;
+  resize:none;
 }
 .pers_info {
   margin-left: 20px;
